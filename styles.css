@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+div {
+    background-color: rgb(2, 166, 254);
+    width: 530px;
+    border-radius: 20px;
+    color: white;
+    padding: 3px;
+    margin: 20px;
+}
+
+video {
+    border-radius: 20px;
+    width: 500px;
+    padding: 10px;
+}
+
+div:hover {
+    color: black;
+    background-color: rgb(32, 16, 137);
+}
+
+.h1ofme {
+    color: white;
+}
+.h1ofme:hover {
+    color: black;
+}
